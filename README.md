@@ -11,7 +11,6 @@ Pequeña app web para **agregar nombres** y **sortear** un “amigo secreto”
 ├── index.html    # Estructura de la página
 ├── style.css     # Estilos
 └── app.js        # Lógica (JavaScript)
-```
-```
-## Uso educativo / práctica personal.
+
+Uso educativo / práctica personal.
 
